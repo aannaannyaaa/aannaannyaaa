@@ -1,6 +1,6 @@
 # 💫 About Me :
-🔭 I’m currently working on MERN and JAVA <br>
-🌱 I’m currently learning  Web Development
+🔭 I’m currently working on Web Development and Web3 <br>
+🌱 I’m currently learning Machine Learning and Neural Networks
 
 
 ## 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ananyasrivastava06?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlKv2u%2FklQCCHgoJpRgVtQg%3D%3D) 
